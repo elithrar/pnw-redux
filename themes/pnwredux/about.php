@@ -12,7 +12,7 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
  * An associative array of information about this application.
  */
 $ThemeInfo['default'] = array(
-   'Name' => 'PNW Theme',
+   'Name' => 'PNW Redux',
    'Description' => "Vanilla forum theme for forums.eatsleeprepeat.net",
    'Version' => APPLICATION_VERSION,
    'Author' => "Matt Silverlock",
